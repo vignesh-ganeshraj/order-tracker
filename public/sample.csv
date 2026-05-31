@@ -1,0 +1,6 @@
+order_id,customer,product,quantity,price,status,order_date
+ORD-001,Jane Doe,Widget A,2,29.99,pending,2024-01-15
+ORD-002,John Smith,Gadget B,1,149.00,shipped,2024-01-16
+ORD-003,Alice Lee,Widget A,5,29.99,delivered,2024-01-17
+ORD-004,Bob Chen,Gizmo C,3,59.50,pending,2024-01-18
+ORD-005,Carol Park,Gadget B,2,149.00,delivered,2024-01-19

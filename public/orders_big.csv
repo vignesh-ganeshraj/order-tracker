@@ -1,0 +1,16 @@
+order_id,customer,product,quantity,price,status,order_date
+ORD-006,Tom Hardy,Widget A,3,29.99,delivered,2024-02-01
+ORD-007,Sara Kim,Gadget B,1,149.00,pending,2024-02-03
+ORD-008,Mike Ross,Gizmo C,2,59.50,shipped,2024-02-05
+ORD-009,Rachel Green,Widget A,4,29.99,delivered,2024-02-07
+ORD-010,Ross Geller,Gadget B,2,149.00,delivered,2024-02-10
+ORD-011,Monica Bing,Gizmo C,1,59.50,pending,2024-02-12
+ORD-012,Chandler Bing,Widget A,6,29.99,shipped,2024-02-14
+ORD-013,Joey Tribbiani,Gadget B,1,149.00,delivered,2024-02-16
+ORD-014,Phoebe Buffay,Gizmo C,3,59.50,shipped,2024-02-18
+ORD-015,Emily Waltham,Widget A,2,29.99,pending,2024-02-20
+ORD-016,Gunther Central,Gadget B,1,149.00,delivered,2024-03-01
+ORD-017,Janice Hosenstein,Gizmo C,4,59.50,shipped,2024-03-03
+ORD-018,Richard Burke,Widget A,5,29.99,delivered,2024-03-05
+ORD-019,Jack Geller,Gadget B,2,149.00,pending,2024-03-08
+ORD-020,Judy Geller,Gizmo C,1,59.50,delivered,2024-03-10
