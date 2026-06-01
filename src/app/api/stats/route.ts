@@ -1,11 +1,13 @@
 import { NextResponse } from 'next/server'
+import { Pool } from 'pg'
+import { initDb } from '@/lib/db'
 
 export const dynamic = 'force-dynamic'
-import { Pool } from 'pg'
 
 const pool = new Pool({ connectionString: process.env.DATABASE_URL })
 
 export async function GET() {
+  await initDb()
   const [statusRes, timelineRes, productRes] = await Promise.all([
     pool.query(`
       SELECT status, COUNT(*) as count
